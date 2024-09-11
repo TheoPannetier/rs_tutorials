@@ -4,7 +4,7 @@ Resolution	10
 LandType	0
 MaxHabitats	7
 SpeciesDist	1
-DistResolution	100
+DistResolution	10
 Reproduction	1
 RepSeasons	1
 StageStruct	1
