@@ -16,8 +16,8 @@ StageStructFile	StageStructFile_ex4.txt
 EmigrationFile	EmigrationFile_ex4.txt
 TransferFile	TransferFile_ex4.txt
 SettlementFile	SettlementFile_ex4.txt
-GeneticsFile	NULL
-TraitsFile	NULL
+GeneticsFile	GeneticsFile_ex4.txt
+TraitsFile	TraitsFile_ex4.txt
 InitialisationFile	InitialisationFile_ex4.txt
 
 ANY ADDITIONAL LINES ARE NOT READ, AND CAN THEREFORE BE USED FOR COMMENTS
