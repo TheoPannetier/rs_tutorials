@@ -4,7 +4,7 @@ Resolution	10
 LandType	0
 MaxHabitats	7
 SpeciesDist	1
-DistResolution	100
+DistResolution	10
 Reproduction	1
 RepSeasons	1
 StageStruct	1
@@ -17,6 +17,7 @@ EmigrationFile	EmigrationFile_ex4.txt
 TransferFile	TransferFile_ex4.txt
 SettlementFile	SettlementFile_ex4.txt
 GeneticsFile	NULL
+TraitsFile	NULL
 InitialisationFile	InitialisationFile_ex4.txt
 
 ANY ADDITIONAL LINES ARE NOT READ, AND CAN THEREFORE BE USED FOR COMMENTS
